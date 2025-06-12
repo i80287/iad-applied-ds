@@ -19,3 +19,8 @@ wandb
 # datasets
 *.zip
 data
+
+venv/
+
+*.tsv
+*.csv
